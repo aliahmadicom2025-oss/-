@@ -10,7 +10,7 @@ Bale Bot API + SQLite
 - TOKEN را فقط در خط پایین وارد کنید.
 """
 
-TOKEN = "1111829688:oS816lZ4dSAB-eOmSQdrgnhrAm0sMcwCCoU"
+TOKEN = "342332884:bw1quybNQdIJIwcrEWTPZAQyFdeszCGYirw"
 API = "https://tapi.bale.ai/bot"
 
 import json
